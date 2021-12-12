@@ -42,6 +42,4 @@ I would love to mentor students with aspirations for better life and career. You
 <a href="https://github.com/Nishanthnishu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanth-Panthangi&theme=light&count_private=true&layout=compact" alt="Nishanth's most used languages" />
 </a>
-<a href="https://github.com/Nishanthnishu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishanth-Panthangi&show_icons=true&theme=light&line_height=40&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Nishanth's github stats"/>
-</a>
+
