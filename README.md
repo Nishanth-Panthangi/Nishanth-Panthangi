@@ -21,9 +21,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working as Software Devlopment Engineer at HyScale.
+- 🔭 I’m currently a Master's in Computer Science Student at Southern Illinois University Carbondale. I previously worked for two products as a Senior Software Devlopment Engineer for Wavemaker Inc. & as a Development Engineer for HyScale Inc. at Pramati Software Private Limited India.
 - 🌱 I’m currently learning stuff related to Machine Learning.
-- 💬 Ask me about Java, Python, Docker, Kubernetes & Design Patterns or any tech related stuff.
+- 💬 Ask me about Java, Python, Docker, Kubernetes, Low Level Design.
 - 😄 I take joy in the process and purity behind writing design and code for software products that make an impact.
 - 😎 Gained a lot of insight on the challenges involved in the journey of building a software product from scratch.
 - 💪 Had a great learning curve, working on an Open Source Project. Do check my contributions & give a star If you like something! :)
