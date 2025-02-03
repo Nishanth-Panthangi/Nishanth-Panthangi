@@ -21,11 +21,11 @@
 <br/>
 <br/>
 
--  MS in Computer Science at SIUC (Southern Illinois University Carbondale)
--  Ask me about Java, Python, Docker, Kubernetes, Low Level Design.
--  I take joy in the process and purity behind writing design and code for software products that make an impact.
--  Gained a lot of insight on the challenges involved in the journey of building a software product from scratch.
--  Had a great learning curve, working on an Open Source Project. Do check my contributions & give a star If you like something! :)
+-  Software Development Engineer II @ Amazon | MS in Computer Science, Southern Illinois University Carbondale
+-  Ask me about Java, System Design, Low Level Design, Docker, Kubernetes.
+-  Passionate about writing clean, impactful software—from design to code, I take joy in the process and craftsmanship behind building scalable products.
+-  Experienced in building software from scratch - Worked at HyScale, an enterprise startup later open-sourced, contributing to its architecture and feature development.
+
 
 Always Curious to find ways that help in translating impactful ideas to products.
 Constantly trying to explore new grounds in my field of expertise.
