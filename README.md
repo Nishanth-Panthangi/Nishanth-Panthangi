@@ -1,5 +1,5 @@
 ## Hey there, I'm Nishanth Panthangi! 👋 
-Someone who's always curious to figure out ways that translate impactful ideas to products.
+Someone who's always on the lookout for figuring out ways that translate impactful ideas to products.
 
 -  Software Development Engineer II @ Amazon | MS in Computer Science, Southern Illinois University Carbondale
 -  Ask me about: Generative AI & LLMs, Distributed System Design, Containerization, Kubernetes & Java.
