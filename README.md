@@ -3,7 +3,7 @@ Someone who's always on the lookout for figuring out ways that translate impactf
 
 -  Software Development Engineer II @ Amazon | MS in Computer Science, Southern Illinois University Carbondale
 -  Ask me about: Generative AI & LLMs, Distributed System Design, Containerization, Kubernetes & Java.
--  Joy & Income source: writing clean, impactful software—from design to code, I enjoy the process and craftsmanship behind building scalable products.
+-  Source of Joy: writing clean, impactful software—from design to code, I enjoy the process and craftsmanship behind building scalable products.
 -  Past: Worked at HyScale, an enterprise startup later open-sourced, contributing to its backend architecture and feature dev.
 -  TL;DR: Experienced in building software products from scratch.
 
