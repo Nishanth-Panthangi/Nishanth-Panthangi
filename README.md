@@ -5,7 +5,7 @@ Someone who's always on the lookout for figuring out ways that translate impactf
 -  Ask me about: Generative AI & LLMs, Distributed System Design, Containerization, Kubernetes & Java.
 -  Joy & Income source: writing clean, impactful software—from design to code, I enjoy the process and craftsmanship behind building scalable products.
 -  Past: Worked at HyScale, an enterprise startup later open-sourced, contributing to its backend architecture and feature dev.
--  TLDR: Experienced in building software products from scratch.
+-  TL;DR: Experienced in building software products from scratch.
 
 
 [![Linkedin follow @nishanth-7](https://img.shields.io/badge/-nishanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishanth-7/)](https://www.linkedin.com/in/nishanth-7/) &nbsp;
